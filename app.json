@@ -44,7 +44,7 @@
         "ALL_IMG": {
             "description": "Give an image link for your bot!",
             "required": true,
-            "value": "https://i.pinimg.com/originals/0e/c8/8c/0ec88ca1469125fc11b4ce76830602f4.jpg"
+            "value": "https://i.ibb.co/JjmP8K2/LOGO.jpg"
         },
         "DIALOGUE": {
             "description": "Give an image link for your bot!",
