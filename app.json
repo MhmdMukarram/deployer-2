@@ -101,7 +101,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "alpha"
+            "value": "𝙷𝚒 𝚃𝚑𝚎𝚛𝚎 𝙸'𝚖 𝙰𝚕𝚒𝚟𝚎😇/n/n༒︎𝚁𝚎𝚍 𝙰𝚕𝚙𝚑𝚊༒︎"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
